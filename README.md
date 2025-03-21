@@ -2,7 +2,7 @@
 
 ## Arquivo Portugol
 
-Arquivo criado com o objetivo de realizar operações de soma e subtração em branches. Em seguida realizar o merge das branches.
+Arquivo criado com o objetivo de realizar operações de soma e subtração em branches separadas. Em seguida realizar o merge das branches na main.
 
 * Branches Criadas
   * **feature-soma**
