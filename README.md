@@ -7,6 +7,8 @@ Arquivo criado com o objetivo de realizar operações de soma e subtração em b
 * Branches Criadas
   * **feature-soma**
   * **feature-subtração**
+
+------------------------------------------------------------------------
  
 * Participantes
   * Andrei Aguilar
